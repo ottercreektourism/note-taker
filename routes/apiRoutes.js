@@ -28,4 +28,24 @@ router.post('/api/notes', (req, res) => {
     res.json(pathToNotes);
 });
 
-module.exports = router;
+router.put('/api/notes', (req, res) => {
+    const pathToNotes = json.parse(fs.readFileSync('..db/db.json'));
+    const changeNote = req.body;
+})
+
+router.delete("/api/notes/:id", function (req, res) {
+    // try {
+        res.sendFile(path.join(__dirname, "/db/db.json"));
+        // const deleteData = await
+
+        // if (!deleteData) {
+        //     res.status(404).json({ message: 'No note found.' });
+        //     return;
+        // }
+        // res.status(200).json(deleteData);
+    // } catch (err) {
+    //     res.status(500).json(err);
+    // }
+}),
+
+    module.exports = router;
