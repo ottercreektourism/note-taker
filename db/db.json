@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"Grocery List","text":"- Tomatoes\n- Marmite\n- Rye bread","id":"c8172d90-e5bb-11ec-a4e1-87ed084484cc"},{"title":"TODO","text":"- Cook dinner\n- Finish Homework\n- Walk the dogs","id":"561d31a0-e5c3-11ec-8b7d-2d29648e0237"}]

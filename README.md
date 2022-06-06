@@ -1,13 +1,10 @@
-# note-taker
-
-# Tech-Blog
+# Note Taker
     
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This application is meant to be used to keep track of the employees working at a company, and can yield tables showing which role the employee has currently and which department that role is in. The user has the option to view department, roles, or employees, add a department role or employee, or update an employee's role in the company. Role salary and manager can also be indicated, which will also show up in the table results.
 
-This project is a tech blog, a space where a user can write about interesting findings in tech, and where users can comment on each other's posts. Users are able to view existing posts without signing up, but they are not able to create new posts or delete old posts without being logged in. Posts and comments are marked with the user's name and the posting date.
+This project is a note taker application, where the user is able to create a new note, save it to the side bar, type a title and body text for their note, and then delete the note if they choose. 
 
   ## Table of Contents 
   * [Installation](#installation)
@@ -28,7 +25,7 @@ This project is a tech blog, a space where a user can write about interesting fi
 
   ## Usage
 
-  When the user opens the Note Taker application, they are presented with a landing page with a link to a notes page. There is a list of existing notes on the left-hand side of the page, and the user has the option to add a new note or edit an existing one. When the user clicks on the save icon, their new note joins the list of all notes on the left side of theh page. 
+  When the user opens the Note Taker application, they are presented with a landing page with a link to a notes page. There is a list of existing notes on the left-hand side of the page, and the user has the option to add a new note or edit an existing one. When the user clicks on the save icon, their new note joins the list of all notes on the left side of the page. 
 
   
   ## License
