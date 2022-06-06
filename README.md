@@ -26,6 +26,8 @@ This project is a note taker application, where the user is able to create a new
   ## Usage
 
   When the user opens the Note Taker application, they are presented with a landing page with a link to a notes page. There is a list of existing notes on the left-hand side of the page, and the user has the option to add a new note or edit an existing one. When the user clicks on the save icon, their new note joins the list of all notes on the left side of the page. 
+  
+  > Deployed Application: https://fierce-hamlet-68395.herokuapp.com
 
   
   ## License
